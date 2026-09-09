@@ -1,2 +1,4 @@
 # Automatic Contradiction Detection in Presidential Debate: A LLM’sapproach to promoting accountability and informed citizenship
-Using LLMs to check 2024 president candidates' credibility by qualitative ideological scoring and the contradiction detection
+We present a novel framework for automated contradiction detection in presidential debates using large language models (LLMs). Our approach systematically identifies and classifies contradictions between candidates' debate statements and their past speeches by leveraging advanced LLMs. We analyze statements from the 2024 presidential debate, comparing them against a comprehensive database of 494 speech segments from Donald Trump and 120 from Kamala Harris. The framework categorizes contradictions into four types: Contradictory, Contrary, Subaltern, and Numeric Mismatch. 
+
+Our experiments show that Claude 3.5 Sonnet achieves the highest macro precision in detecting contradictions, particularly excelling in identifying numeric mismatches and contrary statements.
